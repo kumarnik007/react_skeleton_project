@@ -6,7 +6,7 @@ This is a skeleton of any react project. This specimen can be modified to build 
 ```bash
   git clone https://github.com/kumarnik007/react_skeleton_project.git
 ```
-2. Delete the .git directory present at the root of the project.
+2. Delete the `.git` directory present at the root of the project.
 3. Rename the project directory from `react_skeleton_project` to `<Desired name for the project>`.
 4. Open the renamed directory with VS Code.
 5. Open a terminal and initialiaze a local git repository for this project.
