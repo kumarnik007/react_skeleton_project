@@ -46,11 +46,11 @@ This is a skeleton of any react project. This specimen can be modified to build 
       ```bash
         git remote add origin <REMOTE URL copied in previous step>
       ```
-      - Rename the local git branch from `master` to `main`
+    - Rename the local git branch from `master` to `main`
       ```bash
         git branch -m main
       ```
-      - Push the changes to github
+    - Push the changes to github
       ```bash
         git push origin main
       ```
